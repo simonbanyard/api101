@@ -1,0 +1,1 @@
+This repository hosts the two files use in the API 101 training. In addition, there are more complex examples of querying the same endpoint, using an object oriented, functional and asynchronous approach.
